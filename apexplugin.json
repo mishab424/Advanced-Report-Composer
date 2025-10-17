@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Advanced Report Composer",
+    "version": "version 1.0.0",
+    "description": "The Advanced Report Composer is a modern, interactive, and user-friendly Oracle APEX tool that allows users to load, manipulate, and export data in multiple formats with drag-and-drop report building. It simplifies report creation directly in the browser and supports Excel, JSON, PDF export, and printing.",
+    "keywords": [
+      "oracle-apex",
+      "apex-report",
+      "drag-and-drop",
+      "report-composer",
+      "excel-export",
+      "json-export",
+      "pdf-export",
+      "live-preview"
+    ],
+    "homepage": "https://github.com/mishab424/Advanced-Report-Composer",
+    "bugs": {
+      "url": "https://github.com/mishab424/Advanced-Report-Composer/issues",
+      "email": "mishabpoomala424@gmail.com"
+    },
+    "license": "MIT",
+    "commercial": "Yes",
+    "author": {
+      "name": "Muhammed Mishab PP",
+      "email": "mishabpoomala424@gmail.com",
+      "url": "https://oracleapex.com/ords/r/mishabs_codecraft/mishabs_codecraft/home"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/mishab424/Advanced-Report-Composer.git"
+    },
+    "oracle": {
+      "versions": ["12.2.0.1", "18c", "19c", "21c"],
+      "apex": {
+        "versions": ["24.2"],
+        "plugin": {
+          "internalName": "MC_ADVANCED_REPORT_COMPOSER",
+          "type": "Template Component",
+          "demo": "https://oracleapex.com/ords/r/mishab_demo_dev/advanced-report-composer/advanced-report-composer",
+          "previewImage": "https://raw.githubusercontent.com/mishab424/Advanced-Report-Composer/refs/heads/main/Screenshot%202025-10-17%20114352.png"
+        }
+      }
+    }
+  }
+]

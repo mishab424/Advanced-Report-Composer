@@ -30,7 +30,7 @@
       "url": "https://github.com/mishab424/Advanced-Report-Composer.git"
     },
     "oracle": {
-      "versions": ["12.2.0.1", "18c", "19c", "21c"],
+      "versions": ["12.2.0.1", "18c", "19c", "21c","23ai"],
       "apex": {
         "versions": ["24.2"],
         "plugin": {
@@ -42,5 +42,6 @@
       }
     }
   }
+
 
 
